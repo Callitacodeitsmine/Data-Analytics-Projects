@@ -49,40 +49,35 @@ The analysis includes **15 visualizations** covering team, player, match, and pe
 
 <div align="center">
 
-<table>
-<tr>
-<td><img src="./docs/images/01.png" width="100%"></td>
-<td><img src="./docs/images/02.png" width="100%"></td>
-</tr>
-<tr>
-<td><img src="./docs/images/03.png" width="100%"></td>
-<td><img src="./docs/images/04.png" width="100%"></td>
-</tr>
-<tr>
-<td><img src="./docs/images/05.png" width="100%"></td>
-<td><img src="./docs/images/06.png" width="100%"></td>
-</tr>
-<tr>
-<td><img src="./docs/images/07.png" width="100%"></td>
-<td><img src="./docs/images/08.png" width="100%"></td>
-</tr>
-<tr>
-<td><img src="./docs/images/09.png" width="100%"></td>
-<td><img src="./docs/images/10.png" width="100%"></td>
-</tr>
-<tr>
-<td><img src="./docs/images/11.png" width="100%"></td>
-<td><img src="./docs/images/12.png" width="100%"></td>
-</tr>
-<tr>
-<td><img src="./docs/images/13.png" width="100%"></td>
-<td><img src="./docs/images/14.png" width="100%"></td>
-</tr>
-<tr>
-<td><img src="./docs/images/15.png" width="100%"></td>
-<td></td>
-</tr>
-</table>
+<img src="visualizations/ipl/01_team_win_percentage.png" width="200">
+
+<img src="visualizations/ipl/02_matches_per_season.png" width="200">
+
+<img src="visualizations/ipl/03_toss_decision_pie.png" width="200">
+
+<img src="visualizations/ipl/04_toss_impact.png" width="200">
+
+<img src="visualizations/ipl/05_player_of_match.png" width="200">
+
+<img src="visualizations/ipl/06_top_run_scorers.png" width="200">
+
+<img src="visualizations/ipl/07_top_wicket_takers.png" width="200">
+
+<img src="visualizations/ipl/08_top_venues.png" width="200">
+
+<img src="visualizations/ipl/09_matches_by_team.png" width="200">
+
+<img src="visualizations/ipl/10_team_wins.png" width="200">
+
+<img src="visualizations/ipl/11_toss_by_season.png" width="200">
+
+<img src="visualizations/ipl/12_team_season_trend.png" width="200">
+
+<img src="visualizations/ipl/13_batter_run_distribution.png" width="200">
+
+<img src="visualizations/ipl/14_dismissal_types.png" width="200">
+
+<img src="visualizations/ipl/15_correlation_heatmap.png" width="200">
 
 </div>
 
