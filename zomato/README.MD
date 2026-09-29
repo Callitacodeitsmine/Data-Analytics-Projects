@@ -115,22 +115,6 @@ cd zomato
 python analysis.py
 ```
 
-## Project Structure
-
-```text
-zomato/
-├── README.md
-├── analysis.py
-├── queries.sql
-├── zomato.csv
-└── docs/
-    └── images/
-        ├── 01.png
-        ├── 02.png
-        ├── ...
-        └── 20.png
-```
-
 ## Focus Areas
 
 **Restaurant Ratings · Pricing · Cuisines · Locations · Customer Votes · Online Ordering · Table Booking · Restaurant Performance**
