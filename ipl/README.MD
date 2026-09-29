@@ -107,23 +107,6 @@ cd ipl
 python analysis.py
 ```
 
-## Project Structure
-
-```text
-ipl/
-├── README.md
-├── analysis.py
-├── queries.sql
-├── ipl_matches.csv
-├── ipl_players.csv
-└── docs/
-    └── images/
-        ├── 01.png
-        ├── 02.png
-        ├── ...
-        └── 15.png
-```
-
 ## Focus Areas
 
 **Team Performance · Player Statistics · Batting · Bowling · Match Outcomes · Toss Analysis · Venue Analysis · Season Trends**
