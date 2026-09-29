@@ -52,33 +52,33 @@ The project contains **14 visualizations** covering different aspects of the Fli
 
 <div align="center">
 
-<img src="visualizations/flipkart/01_products_by_category.png" width="400">
+<img src="visualizations/flipkart/01_products_by_category.png" width="300">
 
-<img src="visualizations/flipkart/02_average_discount_category.png" width="400">
+<img src="visualizations/flipkart/02_average_discount_category.png" width="300">
 
-<img src="visualizations/flipkart/03_discount_distribution.png" width="400">
+<img src="visualizations/flipkart/03_discount_distribution.png" width="300">
 
-<img src="visualizations/flipkart/04_retail_price_distribution.png" width="400">
+<img src="visualizations/flipkart/04_retail_price_distribution.png" width="300">
 
-<img src="visualizations/flipkart/05_discounted_price_distribution.png" width="400">
+<img src="visualizations/flipkart/05_discounted_price_distribution.png" width="300">
 
-<img src="visualizations/flipkart/06_price_comparison.png" width="400">
+<img src="visualizations/flipkart/06_price_comparison.png" width="300">
 
-<img src="visualizations/flipkart/07_price_vs_discount.png" width="400">
+<img src="visualizations/flipkart/07_price_vs_discount.png" width="300">
 
-<img src="visualizations/flipkart/08_discount_boxplot.png" width="400">
+<img src="visualizations/flipkart/08_discount_boxplot.png" width="300">
 
-<img src="visualizations/flipkart/09_price_boxplot.png" width="400">
+<img src="visualizations/flipkart/09_price_boxplot.png" width="300">
 
-<img src="visualizations/flipkart/10_top_discounts.png" width="400">
+<img src="visualizations/flipkart/10_top_discounts.png" width="300">
 
-<img src="visualizations/flipkart/11_rating_distribution.png" width="400">
+<img src="visualizations/flipkart/11_rating_distribution.png" width="300">
 
-<img src="visualizations/flipkart/12_discount_vs_rating.png" width="400">
+<img src="visualizations/flipkart/12_discount_vs_rating.png" width="300">
 
-<img src="visualizations/flipkart/13_correlation_heatmap.png" width="400">
+<img src="visualizations/flipkart/13_correlation_heatmap.png" width="300">
 
-<img src="visualizations/flipkart/14_discount_pie.png" width="400">
+<img src="visualizations/flipkart/14_discount_pie.png" width="300">
 
 </div>
 
