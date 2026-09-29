@@ -52,42 +52,33 @@ The project contains **14 visualizations** covering different aspects of the Fli
 
 <div align="center">
 
-<table>
-<tr>
-<td><img src="visualizations/flipkart/01_products_by_category.png" width="100%" height="100px"></td>
-<td><img src="visualizations/flipkart/02_average_discount_category.png" width="100px" height="100px"></td>
-</tr>
+<img src="visualizations/flipkart/01_products_by_category.png" width="800">
 
-<tr>
-<td><img src="./docs/images/03.png" width="100%"></td>
-<td><img src="./docs/images/04.png" width="100%"></td>
-</tr>
+<img src="visualizations/flipkart/02_average_discount_category.png" width="800">
 
-<tr>
-<td><img src="./docs/images/05.png" width="100%"></td>
-<td><img src="./docs/images/06.png" width="100%"></td>
-</tr>
+<img src="visualizations/flipkart/03_discount_distribution.png" width="800">
 
-<tr>
-<td><img src="./docs/images/07.png" width="100%"></td>
-<td><img src="./docs/images/08.png" width="100%"></td>
-</tr>
+<img src="visualizations/flipkart/04_retail_price_distribution.png" width="800">
 
-<tr>
-<td><img src="./docs/images/09.png" width="100%"></td>
-<td><img src="./docs/images/10.png" width="100%"></td>
-</tr>
+<img src="visualizations/flipkart/05_discounted_price_distribution.png" width="800">
 
-<tr>
-<td><img src="./docs/images/11.png" width="100%"></td>
-<td><img src="./docs/images/12.png" width="100%"></td>
-</tr>
+<img src="visualizations/flipkart/06_price_comparison.png" width="800">
 
-<tr>
-<td><img src="./docs/images/13.png" width="100%"></td>
-<td><img src="./docs/images/14.png" width="100%"></td>
-</tr>
-</table>
+<img src="visualizations/flipkart/07_price_vs_discount.png" width="800">
+
+<img src="visualizations/flipkart/08_discount_boxplot.png" width="800">
+
+<img src="visualizations/flipkart/09_price_boxplot.png" width="800">
+
+<img src="visualizations/flipkart/10_top_discounts.png" width="800">
+
+<img src="visualizations/flipkart/11_rating_distribution.png" width="800">
+
+<img src="visualizations/flipkart/12_discount_vs_rating.png" width="800">
+
+<img src="visualizations/flipkart/13_correlation_heatmap.png" width="800">
+
+<img src="visualizations/flipkart/14_discount_pie.png" width="800">
 
 </div>
 
