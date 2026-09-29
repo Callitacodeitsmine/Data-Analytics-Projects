@@ -10,7 +10,7 @@ A collection of end-to-end data analytics projects focused on transforming raw d
 **Focus:** Products, categories, pricing, ratings, reviews, and customer engagement  
 **Visualizations:** 14
 
-[View Project →](https://chatgpt.com/c/flipkart/)
+[View Project →](https://github.com/Callitacodeitsmine/Data-Analytics-Projects/tree/main/flipkart)
 
 ---
 
@@ -20,7 +20,7 @@ A collection of end-to-end data analytics projects focused on transforming raw d
 **Focus:** Teams, players, batting, bowling, matches, toss decisions, and venues  
 **Visualizations:** 15
 
-[View Project →](https://chatgpt.com/c/ipl/)
+[View Project →](https://github.com/Callitacodeitsmine/Data-Analytics-Projects/tree/main/ipl)
 
 ---
 
@@ -30,7 +30,7 @@ A collection of end-to-end data analytics projects focused on transforming raw d
 **Focus:** Ratings, pricing, cuisines, locations, customer votes, and restaurant services  
 **Visualizations:** 20
 
-[View Project →](https://chatgpt.com/c/zomato/)
+[View Project →](https://github.com/Callitacodeitsmine/Data-Analytics-Projects/tree/main/zomato)
 
 ---
 
