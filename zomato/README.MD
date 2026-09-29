@@ -49,48 +49,45 @@ The analysis includes **20 visualizations** covering restaurant, pricing, rating
 
 <div align="center">
 
-<table>
-<tr>
-<td><img src="./docs/images/01.png" width="100%"></td>
-<td><img src="./docs/images/02.png" width="100%"></td>
-</tr>
-<tr>
-<td><img src="./docs/images/03.png" width="100%"></td>
-<td><img src="./docs/images/04.png" width="100%"></td>
-</tr>
-<tr>
-<td><img src="./docs/images/05.png" width="100%"></td>
-<td><img src="./docs/images/06.png" width="100%"></td>
-</tr>
-<tr>
-<td><img src="./docs/images/07.png" width="100%"></td>
-<td><img src="./docs/images/08.png" width="100%"></td>
-</tr>
-<tr>
-<td><img src="./docs/images/09.png" width="100%"></td>
-<td><img src="./docs/images/10.png" width="100%"></td>
-</tr>
-<tr>
-<td><img src="./docs/images/11.png" width="100%"></td>
-<td><img src="./docs/images/12.png" width="100%"></td>
-</tr>
-<tr>
-<td><img src="./docs/images/13.png" width="100%"></td>
-<td><img src="./docs/images/14.png" width="100%"></td>
-</tr>
-<tr>
-<td><img src="./docs/images/15.png" width="100%"></td>
-<td><img src="./docs/images/16.png" width="100%"></td>
-</tr>
-<tr>
-<td><img src="./docs/images/17.png" width="100%"></td>
-<td><img src="./docs/images/18.png" width="100%"></td>
-</tr>
-<tr>
-<td><img src="./docs/images/19.png" width="100%"></td>
-<td><img src="./docs/images/20.png" width="100%"></td>
-</tr>
-</table>
+<img src="visualizations/zomato/01_rating_distribution.png" width="200">
+
+<img src="visualizations/zomato/02_cost_distribution.png" width="200">
+
+<img src="visualizations/zomato/03_rating_vs_cost.png" width="200">
+
+<img src="visualizations/zomato/04_rating_cost_online_order.png" width="200">
+
+<img src="visualizations/zomato/05_cost_by_location.png" width="200">
+
+<img src="visualizations/zomato/06_restaurants_by_location.png" width="200">
+
+<img src="visualizations/zomato/07_rating_by_price_band.png" width="200">
+
+<img src="visualizations/zomato/08_price_band.png" width="200">
+
+<img src="visualizations/zomato/09_price_band_pie.png" width="200">
+
+<img src="visualizations/zomato/10_online_order_pie.png" width="200">
+
+<img src="visualizations/zomato/11_online_rating.png" width="200">
+
+<img src="visualizations/zomato/12_online_rating_boxplot.png" width="200">
+
+<img src="visualizations/zomato/13_top_cuisines.png" width="200">
+
+<img src="visualizations/zomato/14_cuisine_votes.png" width="200">
+
+<img src="visualizations/zomato/15_high_rated_price_band.png" width="200">
+
+<img src="visualizations/zomato/16_top_rated_restaurants.png" width="200">
+
+<img src="visualizations/zomato/17_most_voted_restaurants.png" width="200">
+
+<img src="visualizations/zomato/18_rating_vs_votes.png" width="200">
+
+<img src="visualizations/zomato/19_cost_vs_votes.png" width="200">
+
+<img src="visualizations/zomato/20_correlation_heatmap.png" width="200">
 
 </div>
 
