@@ -54,7 +54,7 @@ The project contains **14 visualizations** covering different aspects of the Fli
 
 <table>
 <tr>
-<td><img src="flipkart/visualizations/flipkart/01_products_by_category.png" width="100%"></td>
+<td><img src="visualizations/flipkart/01_products_by_category.png" width="100%"></td>
 <td><img src="./docs/images/02.png" width="100%"></td>
 </tr>
 
